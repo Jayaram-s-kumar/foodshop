@@ -106,6 +106,7 @@ a{
 
 .item{
     width: 250px;
+    height: 250px;
 }
 
 .listcarddetails{
@@ -243,6 +244,7 @@ a{
 
     .item{
         width: 150px;
+        height: 150px;
     }
 
     .like img{
